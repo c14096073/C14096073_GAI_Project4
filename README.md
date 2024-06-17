@@ -9,5 +9,5 @@ pip install -r requirements.txt
 python main.py
 ```
 ## Reference
-[deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior)  
+[Deep Image Prior](https://github.com/DmitryUlyanov/deep-image-prior)  
 [Denoising Diffusion Probabilistic Models](https://github.com/bot66/MNISTDiffusion/tree/main)
