@@ -4,6 +4,10 @@ Install packages
 ```bash
 pip install -r requirements.txt
 ```
+## Train DDPM
+```bash
+python train_mnist.py
+```
 ## Execution
 ```bash
 python main.py
