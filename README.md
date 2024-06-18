@@ -1,4 +1,4 @@
-# GAI_P4
+# C14096073_GAI_Project4
 ## Environment
 Install packages
 ```bash
