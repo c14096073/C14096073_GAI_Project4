@@ -4,11 +4,11 @@ Install packages
 ```bash
 pip install -r requirements.txt
 ```
-## Train DDPM
+## DDPM Training
 ```bash
 python train_mnist.py
 ```
-## Execution
+## Execution (DIP Training +DDPM Reverse Process)
 ```bash
 python main.py
 ```
