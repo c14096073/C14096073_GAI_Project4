@@ -4,8 +4,8 @@ Install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
-To train the DDPM on MNIST, run:
 ## DDPM Training (Checkpoint file is already available in the results folder)
+To train the DDPM on MNIST, run:
 ```bash
 python train_mnist.py
 ```
